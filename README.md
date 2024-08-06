@@ -37,7 +37,7 @@ ___________
 
 * **Minecraft version:** 1.21
 * **Version:** Stress Test 0.1
-* **Released date:** 8/6/2024
+* **Release date:** 8/6/2024
 
 **Credits:**
 
